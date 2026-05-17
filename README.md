@@ -1,4 +1,4 @@
-# Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][sindresorhus] [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/veggiemonk/awesome-docker/)[![Last Commit](https://img.shields.io/github/last-commit/veggiemonk/awesome-docker)](https://github.com/veggiemonk/awesome-docker/commits/main) ⭐ 36,005 | 🐛 23 | 📅 2026-05-14<!-- omit in toc --> with stars
+# Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][sindresorhus] [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/veggiemonk/awesome-docker/)[![Last Commit](https://img.shields.io/github/last-commit/veggiemonk/awesome-docker)](https://github.com/veggiemonk/awesome-docker/commits/main) ⭐ 36,018 | 🐛 23 | 📅 2026-05-14<!-- omit in toc --> with stars
 
 > A curated list of Docker resources and projects
 
@@ -126,8 +126,8 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 **Cheatsheets** by
 
-* [wsargent](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,519 | 🐛 7 | 📅 2024-12-31 (Most popular)
-* [eon01](https://github.com/eon01/DockerCheatSheet) ⭐ 3,939 | 🐛 1 | 📅 2026-02-19
+* [wsargent](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,518 | 🐛 7 | 📅 2024-12-31 (Most popular)
+* [eon01](https://github.com/eon01/DockerCheatSheet) ⭐ 3,938 | 🐛 1 | 📅 2026-02-19
 * [dimonomid](https://github.com/dimonomid/docker-quick-ref) ⭐ 198 | 🐛 1 | 🌐 Makefile | 📅 2021-09-26 (PDF)
 * [JensPiegsa](https://github.com/JensPiegsa/docker-cheat-sheet) ⭐ 22 | 🐛 0 | 🌐 CSS | 📅 2022-03-23
 
@@ -151,8 +151,8 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 > Docker EE is on the same code base as Docker CE, so also built from Moby, with commercial components added, such as "docker data center / universal control plane"
 
-* [Moby](https://github.com/moby/moby) ⭐ 71,559 | 🐛 3,780 | 🌐 Go | 📅 2026-05-14
-* [Docker Compose](https://github.com/docker/compose/) ⭐ 37,389 | 🐛 109 | 🌐 Go | 📅 2026-05-15 (Define and run multi-container applications with Docker)
+* [Moby](https://github.com/moby/moby) ⭐ 71,561 | 🐛 3,783 | 🌐 Go | 📅 2026-05-14
+* [Docker Compose](https://github.com/docker/compose/) ⭐ 37,390 | 🐛 108 | 🌐 Go | 📅 2026-05-15 (Define and run multi-container applications with Docker)
 * [Docker Images](https://hub.docker.com)
 * [Docker Registry][distribution] (The Docker toolset to pack, ship, store, and deliver content)
 
@@ -161,10 +161,10 @@ The creators and maintainers of this list do not receive any form of payment to 
 ### Container Composition
 
 * [kompose](https://github.com/kubernetes/kompose) ⭐ 10,525 | 🐛 19 | 🌐 Go | 📅 2026-04-16 - Go from Docker Compose to Kubernetes.
-* [podman-compose](https://github.com/containers/podman-compose) ⭐ 6,073 | 🐛 386 | 🌐 Python | 📅 2026-05-04 - A script to run docker-compose.yml using podman.
+* [podman-compose](https://github.com/containers/podman-compose) ⭐ 6,074 | 🐛 387 | 🌐 Python | 📅 2026-05-04 - A script to run docker-compose.yml using podman.
 * [Composerize](https://github.com/magicmark/composerize) ⭐ 3,736 | 🐛 11 | 🌐 JavaScript | 📅 2026-05-13 - Convert docker run commands into docker-compose files.
-* [LLM Harbor](https://github.com/av/harbor) ⭐ 2,939 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-15 - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
-* [habitus](https://github.com/cloud66-oss/habitus) ⭐ 1,397 | 🐛 8 | 🌐 Go | 📅 2020-02-05 :ice\_cube: - A Build Flow Tool for Docker.
+* [LLM Harbor](https://github.com/av/harbor) ⭐ 2,943 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-16 - A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By [av](https://github.com/av).
+* [habitus](https://github.com/cloud66-oss/habitus) ⭐ 1,398 | 🐛 8 | 🌐 Go | 📅 2020-02-05 :ice\_cube: - A Build Flow Tool for Docker.
 * [plash](https://github.com/ihucos/plash) ⭐ 384 | 🐛 9 | 🌐 C | 📅 2025-03-20 - A container run and build engine - runs inside docker.
 * [ctk](https://github.com/ctk-hq/ctk) ⭐ 300 | 🐛 10 | 🌐 TypeScript | 📅 2026-02-15 - Visual composer for container based workloads. By [corpulent](https://github.com/corpulent).
 * [crowdr](https://github.com/polonskiy/crowdr) ⭐ 98 | 🐛 0 | 🌐 Shell | 📅 2020-10-09 :ice\_cube: - Tool for managing multiple Docker containers (`docker-compose` alternative).
@@ -176,10 +176,10 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Deployment and Infrastructure
 
-* [werf](https://github.com/werf/werf) ⭐ 4,685 | 🐛 149 | 🌐 Go | 📅 2026-05-14 - Werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps.
+* [werf](https://github.com/werf/werf) ⭐ 4,684 | 🐛 149 | 🌐 Go | 📅 2026-05-14 - Werf is a CI/CD tool for building Docker images efficiently and deploying them to Kubernetes using GitOps.
 * [gitkube](https://github.com/hasura/gitkube) ⭐ 3,850 | 🐛 44 | 🌐 Go | 📅 2023-08-31 :ice\_cube: - Gitkube is a tool for building and deploying docker images on Kubernetes using `git push`. By [Hasura](https://github.com/hasura/).
 * [Grafeas](https://github.com/grafeas/grafeas) ⭐ 1,564 | 🐛 62 | 🌐 Go | 📅 2026-05-08 - A common API for metadata about containers, from image and build details to security vulnerabilities. By [grafeas](https://github.com/grafeas).
-* [awesome-stacks](https://github.com/ethibox/awesome-stacks) ⭐ 1,280 | 🐛 9 | 🌐 Dockerfile | 📅 2026-05-15 - Deploy 150+ open-source web apps with one Docker command.
+* [awesome-stacks](https://github.com/ethibox/awesome-stacks) ⭐ 1,280 | 🐛 9 | 🌐 Dockerfile | 📅 2026-05-16 - Deploy 150+ open-source web apps with one Docker command.
 * [Clocker](https://github.com/brooklyncentral/clocker) ⭐ 429 | 🐛 53 | 🌐 Shell | 📅 2018-10-24 :ice\_cube: - Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages [Calico][calico] and [Weave][weave] for networking and [Brooklyn](https://brooklyn.apache.org/) for application blueprints. By [brooklyncentral](https://github.com/brooklyncentral).
 * [Conduit](https://github.com/ehazlett/conduit) ⭐ 108 | 🐛 6 | 🌐 Go | 📅 2016-11-07 :ice\_cube: - Experimental deployment system for Docker.
 * [depcon](https://github.com/ContainX/depcon) ⭐ 93 | 🐛 6 | 🌐 Go | 📅 2018-06-05 :ice\_cube: - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By [ContainX][containx].
@@ -191,21 +191,21 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Monitoring
 
-* [Glances](https://github.com/nicolargo/glances) ⭐ 32,539 | 🐛 102 | 🌐 Python | 📅 2026-05-14 - A cross-platform curses-based system monitoring tool written in Python.
+* [Glances](https://github.com/nicolargo/glances) ⭐ 32,555 | 🐛 103 | 🌐 Python | 📅 2026-05-14 - A cross-platform curses-based system monitoring tool written in Python.
 
 * [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,131 | 🐛 63 | 🌐 Go | 📅 2026-05-14 - Analyzes resource usage and performance characteristics of running containers.
 
-* [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 9,782 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+* [Checkmate](https://github.com/bluewave-labs/checkmate) ⭐ 9,781 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 
-* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,231 | 🐛 318 | 🌐 Java | 📅 2026-05-13 - An open-source real-time monitoring system with custom-monitor and agentless.
+* [HertzBeat](https://github.com/dromara/hertzbeat) ⭐ 7,231 | 🐛 319 | 🌐 Java | 📅 2026-05-13 - An open-source real-time monitoring system with custom-monitor and agentless.
 
-* [dockprom](https://github.com/stefanprodan/dockprom) ⭐ 6,509 | 🐛 21 | 📅 2026-03-06 - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager.
+* [dockprom](https://github.com/stefanprodan/dockprom) ⭐ 6,510 | 🐛 21 | 📅 2026-03-06 - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager.
 
 * [Logspout](https://github.com/gliderlabs/logspout) ⭐ 4,697 | 🐛 108 | 🌐 Go | 📅 2023-07-11 :ice\_cube: - Log routing for Docker container logs.
 
 * [Autoheal](https://github.com/willfarrell/docker-autoheal) ⭐ 1,903 | 🐛 60 | 🌐 Shell | 📅 2025-09-09 - Monitor and restart unhealthy docker containers automatically.
 
-* [Sidekick](https://github.com/runsidekick/sidekick) ⭐ 1,607 | 🐛 5 | 🌐 Java | 📅 2023-06-29 :ice\_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
+* [Sidekick](https://github.com/runsidekick/sidekick) ⭐ 1,606 | 🐛 5 | 🌐 Java | 📅 2023-06-29 :ice\_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.
 
 * [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring) ⭐ 1,191 | 🐛 14 | 🌐 C | 📅 2022-02-22 :ice\_cube: - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (\~10x) better, than any script solution.
 
@@ -217,9 +217,9 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 * [Doku](https://github.com/amerkurev/doku) ⭐ 415 | 🐛 8 | 🌐 Python | 📅 2025-12-26 - Doku is a simple web-based application that allows you to monitor Docker disk usage. [amerkurev](https://github.com/amerkurev).
 
-* [Maintenant](https://github.com/kolapsis/maintenant) ⭐ 266 | 🐛 1 | 🌐 Go | 📅 2026-05-13 - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By [kolapsis](https://github.com/kolapsis).
+* [Maintenant](https://github.com/kolapsis/maintenant) ⭐ 266 | 🐛 2 | 🌐 Go | 📅 2026-05-13 - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By [kolapsis](https://github.com/kolapsis).
 
-* [Drydock](https://github.com/CodesWhat/drydock) ⭐ 197 | 🐛 10 | 🌐 TypeScript | 📅 2026-05-16 - Container update monitoring with web dashboard, 23 registry providers, 20 notification triggers, and distributed agent architecture. By [CodesWhat](https://github.com/CodesWhat).
+* [Drydock](https://github.com/CodesWhat/drydock) ⭐ 198 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-17 - Container update monitoring with web dashboard, 23 registry providers, 20 notification triggers, and distributed agent architecture. By [CodesWhat](https://github.com/CodesWhat).
 
 * [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) ⭐ 108 | 🐛 3 | 🌐 Go | 📅 2017-11-15 :ice\_cube: - Monitor and send alerts based on docker container resource usage/statistics.
 
@@ -235,7 +235,7 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 * [DockProbe](https://github.com/deep-on/dockprobe) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-04-11 - Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, \~50MB RAM. By [DeepOn](https://github.com/deep-on).
 
-* [ADRG](https://github.com/jaldertech/adrg) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-03-07 - Dynamic Docker resource governor using cgroups v2 to manage system load.
+* [ADRG](https://github.com/jaldertech/adrg) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-03-07 - Dynamic Docker resource governor using cgroups v2 to manage system load.
 
 * [DLIA](https://github.com/zorak1103/dlia) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-05-12 - DLIA is an AI-powered Docker log monitoring agent that uses Large Language Models (LLMs) to intelligently analyze container logs, detect anomalies, and provide contextual insights over time. By [zorak1103](https://github.com/zorak1103).
 
@@ -251,8 +251,8 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Networking
 
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,674 | 🐛 44 | 🌐 Shell | 📅 2026-04-16 - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues.
-* [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 10,460 | 🐛 0 | 🌐 Vue | 📅 2026-05-16 - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,678 | 🐛 44 | 🌐 Shell | 📅 2026-04-16 - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues.
+* [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 10,514 | 🐛 0 | 🌐 Vue | 📅 2026-05-17 - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
 * [Flannel](https://github.com/coreos/flannel/) ⭐ 9,452 | 🐛 28 | 🌐 Go | 📅 2026-05-11 - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [coreos][coreos].
 * [Pipework](https://github.com/jpetazzo/pipework) ⭐ 4,253 | 🐛 5 | 🌐 Shell | 📅 2024-11-04 - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [jpetazzo][jpetazzo].
 * [Freeflow](https://github.com/Microsoft/Freeflow) ⭐ 637 | 🐛 14 | 🌐 C | 📅 2023-06-12 :ice\_cube: - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By [Microsoft](https://github.com/Microsoft).
@@ -260,13 +260,13 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Orchestration
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 122,287 | 🐛 2,698 | 🌐 Go | 📅 2026-05-16 - Open source orchestration system for Docker containers by Google.
-* [Rancher](https://github.com/rancher/rancher) ⭐ 25,580 | 🐛 3,381 | 🌐 Go | 📅 2026-05-16 - An open source project that provides a complete platform for operating Docker in production.
-* [Nomad](https://github.com/hashicorp/nomad) ⭐ 16,501 | 🐛 1,675 | 🌐 Go | 📅 2026-05-15 - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler.
-* [Mesos](https://github.com/apache/mesos) ⭐ 5,369 | 🐛 11 | 🌐 C++ | 📅 2026-05-15 - Resource/Job scheduler for containers, VM's and physical hosts [apache](https://mesos.apache.org/).
+* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 122,308 | 🐛 2,701 | 🌐 Go | 📅 2026-05-16 - Open source orchestration system for Docker containers by Google.
+* [Rancher](https://github.com/rancher/rancher) ⭐ 25,581 | 🐛 3,382 | 🌐 Go | 📅 2026-05-16 - An open source project that provides a complete platform for operating Docker in production.
+* [Nomad](https://github.com/hashicorp/nomad) ⭐ 16,506 | 🐛 1,676 | 🌐 Go | 📅 2026-05-15 - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler.
+* [Mesos](https://github.com/apache/mesos) ⭐ 5,370 | 🐛 11 | 🌐 C++ | 📅 2026-05-15 - Resource/Job scheduler for containers, VM's and physical hosts [apache](https://mesos.apache.org/).
 * [docker rollout](https://github.com/Wowu/docker-rollout) ⭐ 3,213 | 🐛 9 | 🌐 Shell | 📅 2026-04-02 - Zero downtime deployment for Docker Compose services.
 * [ManageIQ](https://github.com/ManageIQ/manageiq) ⭐ 1,398 | 🐛 336 | 🌐 Ruby | 📅 2026-05-15 - Discover, optimize and control your hybrid IT. By [ManageIQ](https://github.com/ManageIQ).
-* [Swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ⭐ 872 | 🐛 23 | 🌐 Go | 📅 2026-05-12 - Create jobs on a time-based schedule on Swarm by [crazy-max].
+* [Swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) ⭐ 872 | 🐛 22 | 🌐 Go | 📅 2026-05-16 - Create jobs on a time-based schedule on Swarm by [crazy-max].
 * [Crane](https://github.com/Dataman-Cloud/crane) ⭐ 749 | 🐛 15 | 🌐 Go | 📅 2023-08-31 :ice\_cube: - Control plane based on docker built-in swarm [Dataman-Cloud](https://github.com/Dataman-Cloud).
 * [Haven](https://github.com/codeabovelab/haven-platform) ⭐ 298 | 🐛 8 | 🌐 Java | 📅 2018-07-06 :ice\_cube: - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [codeabovelab](https://github.com/codeabovelab).
 * [CloudSlang](https://github.com/CloudSlang/cloud-slang) ⭐ 241 | 🐛 111 | 🌐 Java | 📅 2026-05-14 - CloudSlang is a workflow engine to create Docker process automation.
@@ -279,9 +279,9 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### PaaS
 
-* [Dokku](https://github.com/dokku/dokku) ⭐ 31,873 | 🐛 28 | 🌐 Shell | 📅 2026-05-15 - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (originally by [progrium][progrium]).
-* [caprover](https://github.com/caprover/caprover) ⭐ 15,021 | 🐛 184 | 🌐 TypeScript | 📅 2026-05-14 - \[Previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids.
-* [Tsuru](https://github.com/tsuru/tsuru) ⭐ 5,276 | 🐛 25 | 🌐 Go | 📅 2026-05-06 - Tsuru is an extensible and open source Platform as a Service software.
+* [Dokku](https://github.com/dokku/dokku) ⭐ 31,879 | 🐛 28 | 🌐 Shell | 📅 2026-05-16 - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (originally by [progrium][progrium]).
+* [caprover](https://github.com/caprover/caprover) ⭐ 15,024 | 🐛 184 | 🌐 TypeScript | 📅 2026-05-14 - \[Previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids.
+* [Tsuru](https://github.com/tsuru/tsuru) ⭐ 5,277 | 🐛 25 | 🌐 Go | 📅 2026-05-06 - Tsuru is an extensible and open source Platform as a Service software.
 * [Empire](https://github.com/remind101/empire) ⭐ 2,679 | 🐛 90 | 🌐 Go | 📅 2023-11-25 :ice\_cube: - A PaaS built on top of Amazon EC2 Container Service (ECS).
 * [Convox Rack](https://github.com/convox/rack) ⭐ 1,892 | 🐛 24 | 🌐 Go | 📅 2026-04-21 - Convox Rack is open source PaaS built on top of expert infrastructure automation and devops best practices.
 * [Nanobox](https://github.com/nanobox-io/nanobox) ⭐ 1,628 | 🐛 76 | 🌐 Go | 📅 2019-10-21 :ice\_cube: - :yen: An application development platform that creates local environments that can then be deployed and scaled in the cloud.
@@ -293,12 +293,12 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Reverse Proxy
 
-* [Træfɪk](https://github.com/containous/traefik) ⭐ 63,175 | 🐛 817 | 🌐 Go | 📅 2026-05-11 - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [EmileVauge](https://github.com/emilevauge).
-* [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 32,845 | 🐛 927 | 🌐 TypeScript | 📅 2026-05-14 - A beautiful web interface for proxying web based services with SSL. By [jc21](https://github.com/jc21).
-* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,487 | 🐛 218 | 🌐 Python | 📅 2026-05-15 - Open-source and next-gen Web Application Firewall (WAF). By [Bunkerity](https://www.bunkerity.com).
+* [Træfɪk](https://github.com/containous/traefik) ⭐ 63,183 | 🐛 823 | 🌐 Go | 📅 2026-05-11 - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [EmileVauge](https://github.com/emilevauge).
+* [Nginx Proxy Manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 32,851 | 🐛 924 | 🌐 TypeScript | 📅 2026-05-14 - A beautiful web interface for proxying web based services with SSL. By [jc21](https://github.com/jc21).
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,488 | 🐛 218 | 🌐 Python | 📅 2026-05-16 - Open-source and next-gen Web Application Firewall (WAF). By [Bunkerity](https://www.bunkerity.com).
 * [Let's Encrypt Nginx-proxy Companion](https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion) ⭐ 7,702 | 🐛 46 | 🌐 Shell | 📅 2026-05-07 - A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By [JrCs](https://github.com/JrCs).
-* [fabio](https://github.com/fabiolb/fabio) ⭐ 7,333 | 🐛 238 | 🌐 Go | 📅 2026-05-12 - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [magiconair](https://github.com/magiconair) (Frank Schroeder).
-* [caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,475 | 🐛 48 | 🌐 Go | 📅 2026-05-12 - Caddy-based reverse proxy, configured with service or container labels. By [lucaslorentz](https://github.com/lucaslorentz).
+* [fabio](https://github.com/fabiolb/fabio) ⭐ 7,334 | 🐛 238 | 🌐 Go | 📅 2026-05-12 - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [magiconair](https://github.com/magiconair) (Frank Schroeder).
+* [caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,473 | 🐛 48 | 🌐 Go | 📅 2026-05-12 - Caddy-based reverse proxy, configured with service or container labels. By [lucaslorentz](https://github.com/lucaslorentz).
 * [OpenResty Manager](https://github.com/Safe3/openresty-manager) ⭐ 1,374 | 🐛 56 | 🌐 Go | 📅 2026-01-25 - The easiest using, powerful and beautiful OpenResty Manager(Nginx Enhanced Version), open source alternative to OpenResty Edge. By [Safe3](https://github.com/Safe3/).
 * [docker-flow-proxy](https://github.com/docker-flow/docker-flow-proxy) ⭐ 318 | 🐛 3 | 🌐 Go | 📅 2025-12-05 - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [docker-flow][docker-flow].
 * [Swarm Router](https://github.com/flavioaiello/swarm-router) ⭐ 75 | 🐛 0 | 🌐 Dockerfile | 📅 2025-09-15 - A «zero config» service name based router for docker swarm mode with a fresh and more secure approach. By [flavioaiello](https://github.com/flavioaiello).
@@ -310,31 +310,31 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Runtime
 
-* [podman](https://github.com/containers/libpod) ⭐ 31,695 | 🐛 1,075 | 🌐 Go | 📅 2026-05-15 - Libpod is a library used to create container pods. Home of Podman.
-* [cri-o](https://github.com/cri-o/cri-o) ⭐ 5,611 | 🐛 103 | 🌐 Go | 📅 2026-05-16 - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface by [cri-o](https://github.com/cri-o).
-* [lxc](https://github.com/lxc/lxc) ⭐ 5,181 | 🐛 148 | 🌐 C | 📅 2026-05-15 - LXC - Linux Containers.
+* [podman](https://github.com/containers/libpod) ⭐ 31,700 | 🐛 1,078 | 🌐 Go | 📅 2026-05-17 - Libpod is a library used to create container pods. Home of Podman.
+* [cri-o](https://github.com/cri-o/cri-o) ⭐ 5,612 | 🐛 103 | 🌐 Go | 📅 2026-05-17 - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface by [cri-o](https://github.com/cri-o).
+* [lxc](https://github.com/lxc/lxc) ⭐ 5,180 | 🐛 148 | 🌐 C | 📅 2026-05-15 - LXC - Linux Containers.
 * [runtime-tools](https://github.com/opencontainers/runtime-tools) ⭐ 482 | 🐛 70 | 🌐 Go | 📅 2026-03-16 - Oci-runtime-tool is a collection of tools for working with the OCI runtime specification.
 * [Mocker](https://github.com/us/mocker) ⭐ 178 | 🐛 1 | 🌐 Swift | 📅 2026-05-06 - Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By [us](https://github.com/us).
 * [rlxc](https://github.com/brauner/rlxc) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2021-06-30 :ice\_cube: - LXC binary written in Rust.
 
 ### Security
 
-* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 35,012 | 🐛 250 | 🌐 Go | 📅 2026-05-15 - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
-* [Grype](https://github.com/anchore/grype) ⭐ 12,210 | 🐛 359 | 🌐 Go | 📅 2026-05-15 - A vulnerability scanner for container images, filesystems and SBOMs. By [Anchore](https://github.com/anchore).
-* [Clair](https://github.com/quay/clair) ⭐ 10,978 | 🐛 47 | 🌐 Go | 📅 2026-05-13 - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [coreos][coreos].
-* [docker-bench-security](https://github.com/docker/docker-bench-security) ⭐ 9,636 | 🐛 27 | 🌐 Shell | 📅 2024-10-21 - Script that checks for dozens of common best-practices around deploying Docker containers in production. By [docker][docker].
-* [Sysdig Falco](https://github.com/falcosecurity/falco) ⭐ 8,945 | 🐛 48 | 🌐 C++ | 📅 2026-05-13 - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
-* [Syft](https://github.com/anchore/syft) ⭐ 8,937 | 🐛 608 | 🌐 Go | 📅 2026-05-15 - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
-* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,717 | 🐛 139 | 🌐 Python | 📅 2026-05-14 - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
-* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,266 | 🐛 142 | 🌐 TypeScript | 📅 2026-05-13 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
-* [KICS](https://github.com/checkmarx/kics) ⭐ 2,630 | 🐛 301 | 🌐 Open Policy Agent | 📅 2026-04-22 - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By [Checkmarx](https://github.com/Checkmarx).
+* [Trivy](https://github.com/aquasecurity/trivy) ⭐ 35,022 | 🐛 250 | 🌐 Go | 📅 2026-05-15 - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
+* [Grype](https://github.com/anchore/grype) ⭐ 12,221 | 🐛 359 | 🌐 Go | 📅 2026-05-15 - A vulnerability scanner for container images, filesystems and SBOMs. By [Anchore](https://github.com/anchore).
+* [Clair](https://github.com/quay/clair) ⭐ 10,980 | 🐛 47 | 🌐 Go | 📅 2026-05-13 - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [coreos][coreos].
+* [docker-bench-security](https://github.com/docker/docker-bench-security) ⭐ 9,636 | 🐛 28 | 🌐 Shell | 📅 2024-10-21 - Script that checks for dozens of common best-practices around deploying Docker containers in production. By [docker][docker].
+* [Sysdig Falco](https://github.com/falcosecurity/falco) ⭐ 8,947 | 🐛 48 | 🌐 C++ | 📅 2026-05-13 - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
+* [Syft](https://github.com/anchore/syft) ⭐ 8,944 | 🐛 608 | 🌐 Go | 📅 2026-05-15 - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
+* [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 8,718 | 🐛 139 | 🌐 Python | 📅 2026-05-14 - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them. By [bridgecrew](https://github.com/bridgecrewio).
+* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,267 | 🐛 142 | 🌐 TypeScript | 📅 2026-05-13 - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [deepfence][deepfence].
+* [KICS](https://github.com/checkmarx/kics) ⭐ 2,632 | 🐛 301 | 🌐 Open Policy Agent | 📅 2026-04-22 - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By [Checkmarx](https://github.com/Checkmarx).
 * [oscap-docker](https://github.com/OpenSCAP/openscap) ⭐ 1,717 | 🐛 62 | 🌐 XSLT | 📅 2026-05-14 - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By [OpenSCAP](https://github.com/OpenSCAP).
 * [Dagda](https://github.com/eliasgranderubio/dagda) ⭐ 1,232 | 🐛 25 | 🌐 Python | 📅 2023-05-23 :ice\_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By [eliasgranderubio](https://github.com/eliasgranderubio).
-* [bane](https://github.com/genuinetools/bane) ⭐ 1,226 | 🐛 4 | 🌐 Go | 📅 2020-09-17 :ice\_cube: - AppArmor profile generator for Docker containers.
+* [bane](https://github.com/genuinetools/bane) ⭐ 1,228 | 🐛 4 | 🌐 Go | 📅 2020-09-17 :ice\_cube: - AppArmor profile generator for Docker containers.
 * [docker-explorer](https://github.com/google/docker-explorer) ⚠️ Archived - A tool to help forensicate offline docker acquisitions.
 * [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark) ⭐ 523 | 🐛 7 | 🌐 Ruby | 📅 2023-05-02 :ice\_cube: - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [dev-sec](https://github.com/dev-sec).
-* [crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) ⭐ 213 | 🐛 3 | 🌐 Python | 📅 2026-04-20 - Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By [wolffcatskyy](https://github.com/wolffcatskyy).
-* [CetusGuard](https://github.com/hectorm/cetusguard) ⭐ 84 | 🐛 2 | 🌐 Go | 📅 2026-04-01 - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
+* [crowdsec-blocklist-import](https://github.com/wolffcatskyy/crowdsec-blocklist-import) ⭐ 213 | 🐛 3 | 🌐 Python | 📅 2026-05-17 - Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By [wolffcatskyy](https://github.com/wolffcatskyy).
+* [CetusGuard](https://github.com/hectorm/cetusguard) ⭐ 85 | 🐛 2 | 🌐 Go | 📅 2026-04-01 - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 * [Anchor](https://github.com/SongStitch/anchor/) ⭐ 24 | 🐛 1 | 🌐 Go | 📅 2025-01-15 - A tool to ensure reproducible builds by pinning dependencies inside your Dockerfiles [SongStitch](https://github.com/songStitch/).
 * [segspec](https://github.com/dormstern/segspec) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2026-05-06 - Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By [dormstern](https://github.com/dormstern).
 * [Den](https://github.com/us/den) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2026-03-15 - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By [us](https://github.com/us).
@@ -350,15 +350,15 @@ The creators and maintainers of this list do not receive any form of payment to 
 
 ### Service Discovery
 
-* [etcd](https://github.com/etcd-io/etcd) ⭐ 51,700 | 🐛 237 | 🌐 Go | 📅 2026-05-15 - Distributed reliable key-value store for the most critical data of a distributed system by [etcd-io](https://github.com/etcd-io) (former part of CoreOS).
-* [istio](https://github.com/istio/istio) ⭐ 38,203 | 🐛 464 | 🌐 Go | 📅 2026-05-15 - An open platform to connect, manage, and secure microservices.
+* [etcd](https://github.com/etcd-io/etcd) ⭐ 51,707 | 🐛 239 | 🌐 Go | 📅 2026-05-15 - Distributed reliable key-value store for the most critical data of a distributed system by [etcd-io](https://github.com/etcd-io) (former part of CoreOS).
+* [istio](https://github.com/istio/istio) ⭐ 38,204 | 🐛 462 | 🌐 Go | 📅 2026-05-17 - An open platform to connect, manage, and secure microservices.
 * [registrator](https://github.com/gliderlabs/registrator) ⭐ 4,675 | 🐛 259 | 🌐 Go | 📅 2025-05-22 - Service registry bridge for Docker by [gliderlabs][gliderlabs] and [progrium][progrium].
 * [docker-consul](https://github.com/gliderlabs/docker-consul) ⭐ 1,062 | 🐛 34 | 🌐 Shell | 📅 2021-03-23 by [progrium][progrium]
 * [docker-dns](https://github.com/bytesharky/docker-dns) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2025-12-26 - Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. `.docker`) on the host to simplify service discovery.
 
 ### Volume Management / Data
 
-* [Docker Volume Backup](https://github.com/offen/docker-volume-backup) ⭐ 3,567 | 🐛 28 | 🌐 Go | 📅 2026-05-14 Backup Docker volumes locally or to any S3 compatible storage. By [offen](https://github.com/offen)
+* [Docker Volume Backup](https://github.com/offen/docker-volume-backup) ⭐ 3,571 | 🐛 28 | 🌐 Go | 📅 2026-05-14 Backup Docker volumes locally or to any S3 compatible storage. By [offen](https://github.com/offen)
 
 * [REX-Ray](https://github.com/rexray/rexray) ⭐ 2,222 | 🐛 294 | 🌐 Go | 📅 2023-09-02 provides a vendor agnostic storage orchestration engine. The primary design goal is to provide persistent storage for Docker, Kubernetes, and Mesos. By[thecodeteam](https://github.com/thecodeteam) (DELL Technologies)
 
@@ -397,26 +397,26 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 ##### Terminal UI
 
-* [dive](https://github.com/wagoodman/dive) ⭐ 53,940 | 🐛 203 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
-* [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 51,046 | 🐛 274 | 🌐 Go | 📅 2026-04-19 - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [jesseduffield](https://github.com/jesseduffield).
+* [dive](https://github.com/wagoodman/dive) ⭐ 53,938 | 🐛 203 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
+* [lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 51,052 | 🐛 274 | 🌐 Go | 📅 2026-04-19 - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [jesseduffield](https://github.com/jesseduffield).
 * [dockly](https://github.com/lirantal/dockly) ⭐ 4,015 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-13 - An interactive shell UI for managing Docker containers.
 * [dry](https://github.com/moncho/dry) ⭐ 3,250 | 🐛 26 | 🌐 Go | 📅 2026-04-09 - An interactive CLI for Docker containers.
-* [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) ⭐ 2,559 | 🐛 6 | 🌐 Shell | 📅 2026-05-07 - DockSTARTer helps you get started with home server apps running in Docker by [GhostWriters](https://github.com/GhostWriters).
-* [oxker](https://github.com/mrjackwills/oxker) ⭐ 1,659 | 🐛 22 | 🌐 Rust | 📅 2026-05-13 - A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui](https://github.com/tui-rs-revival/ratatui) ⭐ 20,460 | 🐛 195 | 🌐 Rust | 📅 2026-05-14 & [Bollard](https://github.com/fussybeaver/bollard) ⭐ 1,283 | 🐛 43 | 🌐 Rust | 📅 2026-05-04,.
-* [lazyjournal](https://github.com/Lifailon/lazyjournal) ⭐ 1,264 | 🐛 1 | 🌐 Go | 📅 2026-05-06 - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](origin/dozzle) but for the terminal with support for fuzzy find, regex and output coloring.
+* [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) ⭐ 2,558 | 🐛 6 | 🌐 Shell | 📅 2026-05-16 - DockSTARTer helps you get started with home server apps running in Docker by [GhostWriters](https://github.com/GhostWriters).
+* [oxker](https://github.com/mrjackwills/oxker) ⭐ 1,662 | 🐛 22 | 🌐 Rust | 📅 2026-05-13 - A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui](https://github.com/tui-rs-revival/ratatui) ⭐ 20,475 | 🐛 198 | 🌐 Rust | 📅 2026-05-14 & [Bollard](https://github.com/fussybeaver/bollard) ⭐ 1,284 | 🐛 44 | 🌐 Rust | 📅 2026-05-04,.
+* [lazyjournal](https://github.com/Lifailon/lazyjournal) ⭐ 1,266 | 🐛 1 | 🌐 Go | 📅 2026-05-06 - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](origin/dozzle) but for the terminal with support for fuzzy find, regex and output coloring.
 * [goManageDocker](https://github.com/ajayd-san/gomanagedocker) ⭐ 638 | 🐛 12 | 🌐 Go | 📅 2024-12-28 - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box.
 * [DockMate](https://github.com/shubh-io/dockmate) ⭐ 313 | 🐛 2 | 🌐 Go | 📅 2026-04-06 - Lightweight terminal-based Docker and Podman manager with a text-based user interface,.
 * [dockdash](https://github.com/byrnedo/dockdash) ⭐ 125 | 🐛 0 | 🌐 Go | 📅 2022-06-01 detailed stats. By [byrnedo]
 * [easydocker](https://github.com/joao-zanutto/easydocker) ⭐ 111 | 🐛 8 | 🌐 Go | 📅 2026-05-16 - A Terminal UI highly inpired by k9s levaraging beatiful BubbleTea graphics. By [joao-zanutto](https://github.com/joao-zanutto).
-* [tdocker](https://github.com/pivovarit/tdocker) ⭐ 84 | 🐛 2 | 🌐 Go | 📅 2026-05-15 - A `docker ps` replacement for everyday container operations by [@pivovarit](https://github.com/pivovarit).
+* [tdocker](https://github.com/pivovarit/tdocker) ⭐ 84 | 🐛 1 | 🌐 Go | 📅 2026-05-16 - A `docker ps` replacement for everyday container operations by [@pivovarit](https://github.com/pivovarit).
 * [d4s](https://github.com/jr-k/d4s) ⭐ 82 | 🐛 0 | 🌐 Go | 📅 2026-05-12 - A fast, keyboard-driven terminal UI to manage Docker containers, Compose stacks, and Swarm services with the ergonomics of K9s.
 * [dprs](https://github.com/durableprogramming/dprs) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2026-03-05 - A developer-focused TUI for managing Docker containers with real-time log streaming and container management. Built with Rust. By [durableprogramming](https://github.com/durableprogramming).
-* [swarmcli](https://github.com/Eldara-Tech/swarmcli) ⭐ 15 | 🐛 11 | 🌐 Go | 📅 2026-05-14 - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
+* [swarmcli](https://github.com/Eldara-Tech/swarmcli) ⭐ 15 | 🐛 10 | 🌐 Go | 📅 2026-05-16 - Swarm Management at the speed of thought — with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.
 * [wharf](https://github.com/idesyatov/wharf) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2026-05-05 - A k9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. By [@idesyatov](https://github.com/idesyatov)
 
 ##### CLI tools
 
-* [skopeo](https://github.com/containers/skopeo) ⭐ 10,871 | 🐛 76 | 🌐 Go | 📅 2026-05-14 - Work with remote images registries - retrieving information, images, signing content.
+* [skopeo](https://github.com/containers/skopeo) ⭐ 10,875 | 🐛 77 | 🌐 Go | 📅 2026-05-17 - Work with remote images registries - retrieving information, images, signing content.
 
 * [DVM](https://github.com/howtowhale/dvm) ⭐ 526 | 🐛 16 | 🌐 Go | 📅 2022-03-30 :ice\_cube: - Docker version manager.
 
@@ -460,26 +460,26 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 #### Web
 
-* [netdata](https://github.com/netdata/netdata) ⭐ 78,826 | 🐛 310 | 🌐 C | 📅 2026-05-16 - Real-time performance monitoring.
-* [Portainer](https://github.com/portainer/portainer) ⭐ 37,448 | 🐛 743 | 🌐 TypeScript | 📅 2026-05-15 - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters.
-* [dockge](https://github.com/louislam/dockge) ⭐ 23,199 | 🐛 145 | 🌐 TypeScript | 📅 2026-04-25 - Easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
-* [Theia](https://github.com/eclipse-theia/theia) ⭐ 21,513 | 🐛 1,486 | 🌐 TypeScript | 📅 2026-05-15 - Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
-* [Komodo](https://github.com/mbecker20/komodo) ⭐ 11,182 | 🐛 496 | 🌐 Rust | 📅 2026-05-12 - A tool to build and deploy software on many servers.
-* [Arcane](https://github.com/getarcaneapp/arcane) ⭐ 5,523 | 🐛 126 | 🌐 Go | 📅 2026-05-16 - An easy and modern Docker management platform, built with everybody in mind. By [getarcaneapp](https://github.com/getarcaneapp).
-* [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,358 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 :ice\_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
+* [netdata](https://github.com/netdata/netdata) ⭐ 78,834 | 🐛 313 | 🌐 C | 📅 2026-05-16 - Real-time performance monitoring.
+* [Portainer](https://github.com/portainer/portainer) ⭐ 37,451 | 🐛 743 | 🌐 TypeScript | 📅 2026-05-16 - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters.
+* [dockge](https://github.com/louislam/dockge) ⭐ 23,217 | 🐛 145 | 🌐 TypeScript | 📅 2026-04-25 - Easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.
+* [Theia](https://github.com/eclipse-theia/theia) ⭐ 21,514 | 🐛 1,486 | 🌐 TypeScript | 📅 2026-05-15 - Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+* [Komodo](https://github.com/mbecker20/komodo) ⭐ 11,186 | 🐛 500 | 🌐 Rust | 📅 2026-05-12 - A tool to build and deploy software on many servers.
+* [Arcane](https://github.com/getarcaneapp/arcane) ⭐ 5,526 | 🐛 124 | 🌐 Go | 📅 2026-05-17 - An easy and modern Docker management platform, built with everybody in mind. By [getarcaneapp](https://github.com/getarcaneapp).
+* [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,359 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 :ice\_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
 * [Swarmpit](https://github.com/swarmpit/swarmpit) ⭐ 3,438 | 🐛 175 | 🌐 Clojure | 📅 2026-05-14 - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
 * [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) ⭐ 3,348 | 🐛 11 | 🌐 JavaScript | 📅 2024-10-26 - Visualizes Docker services on a Docker Swarm (for running demos).
 * [Seagull](https://github.com/tobegit3hub/seagull) ⭐ 1,936 | 🐛 20 | 🌐 JavaScript | 📅 2017-11-22 :ice\_cube: - Friendly Web UI to monitor docker daemon.
 * [Kubevious](https://github.com/kubevious/kubevious) ⭐ 1,696 | 🐛 17 | 📅 2024-01-15 :ice\_cube: - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.
 * [dockemon](https://github.com/ProductiveOps/dokemon) ⭐ 768 | 🐛 18 | 🌐 TypeScript | 📅 2024-02-21 :ice\_cube: - Docker Container Management GUI.
-* [Mafl](https://github.com/hywax/mafl) ⭐ 728 | 🐛 45 | 🌐 TypeScript | 📅 2026-05-10 - Minimalistic flexible homepage.
-* [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) ⭐ 686 | 🐛 9 | 🌐 Ruby | 📅 2026-05-14 - Web Interface for the Docker Registry HTTP API v2.
+* [Mafl](https://github.com/hywax/mafl) ⭐ 729 | 🐛 45 | 🌐 TypeScript | 📅 2026-05-17 - Minimalistic flexible homepage.
+* [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) ⭐ 686 | 🐛 9 | 🌐 Ruby | 📅 2026-05-16 - Web Interface for the Docker Registry HTTP API v2.
 * [Swirl](https://github.com/cuigh/swirl) ⭐ 668 | 🐛 23 | 🌐 Go | 📅 2023-05-16 :ice\_cube: - Swirl is a web management tool for Docker, focused on swarm cluster By [cuigh](https://github.com/cuigh/).
 * [docker-registry-web](https://github.com/mkuchin/docker-registry-web) ⭐ 547 | 🐛 46 | 🌐 Groovy | 📅 2022-02-08 :ice\_cube: - Web UI, authentication service and event recorder for private docker registry v2.
 * [Container Web TTY](https://github.com/wrfly/container-web-tty) ⭐ 258 | 🐛 12 | 🌐 Go | 📅 2026-04-16 - Connect your containers via a web-tty [wrfly](https://github.com/wrfly).
 * [Rapid Dashboard](https://github.com/ozlerhakan/rapid) ⭐ 147 | 🐛 1 | 🌐 Java | 📅 2021-09-21 :ice\_cube: - A simple query dashboard to use Docker Remote API.
-* [usulnet](https://github.com/fr4nsys/usulnet) ⭐ 96 | 🐛 3 | 🌐 Go | 📅 2026-05-15 - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [fr4nsys](https://github.com/fr4nsys).
-* [CASA](https://github.com/knrdl/casa) ⭐ 85 | 🐛 1 | 🌐 Svelte | 📅 2026-05-14 - Outsource the administration of a handful of containers to your co-workers,.
+* [usulnet](https://github.com/fr4nsys/usulnet) ⭐ 96 | 🐛 3 | 🌐 Go | 📅 2026-05-16 - A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By [fr4nsys](https://github.com/fr4nsys).
+* [CASA](https://github.com/knrdl/casa) ⭐ 85 | 🐛 0 | 🌐 Svelte | 📅 2026-05-16 - Outsource the administration of a handful of containers to your co-workers,.
 
 ## Docker Images
 
@@ -487,19 +487,19 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 Tools and applications that are either installed inside containers or designed to be run as a [sidecar](https://learn.microsoft.com/en-us/azure/architecture/patterns/sidecar)
 
-* [distroless](https://github.com/GoogleContainerTools/distroless) ⭐ 22,626 | 🐛 12 | 🌐 Starlark | 📅 2026-05-15 - Language focused docker images, minus the operating system,.
+* [distroless](https://github.com/GoogleContainerTools/distroless) ⭐ 22,627 | 🐛 12 | 🌐 Starlark | 📅 2026-05-15 - Language focused docker images, minus the operating system,.
 
 * [docker-alpine](https://github.com/gliderlabs/docker-alpine) ⭐ 5,705 | 🐛 123 | 🌐 Shell | 📅 2021-04-01 :ice\_cube: - A super small Docker base image *(5MB)* using Alpine Linux.
 
-* [GoSu](https://github.com/tianon/gosu) ⭐ 4,967 | 🐛 8 | 🌐 Shell | 📅 2026-03-04 - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool).
+* [GoSu](https://github.com/tianon/gosu) ⭐ 4,968 | 🐛 8 | 🌐 Shell | 📅 2026-03-04 - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool).
 
-* [docker-gen](https://github.com/jwilder/docker-gen) ⭐ 4,626 | 🐛 50 | 🌐 Go | 📅 2026-05-11 - Generate files from docker container meta-data.
+* [docker-gen](https://github.com/jwilder/docker-gen) ⭐ 4,627 | 🐛 50 | 🌐 Go | 📅 2026-05-11 - Generate files from docker container meta-data.
 
 * [Ofelia](https://github.com/mcuadros/ofelia/) ⭐ 3,844 | 🐛 150 | 🌐 Go | 📅 2026-05-07 - Ofelia is a modern and low footprint job scheduler for docker environments, built on Go. Ofelia aims to be a replacement for the old fashioned cron. Supports configuration from container labels and/or configuration files.
 
-* [supercronic](https://github.com/aptible/supercronic) ⭐ 2,493 | 🐛 45 | 🌐 Go | 📅 2026-04-23 - Crontab-compatible job runner, designed specifically to run in containers.
+* [supercronic](https://github.com/aptible/supercronic) ⭐ 2,494 | 🐛 45 | 🌐 Go | 📅 2026-04-23 - Crontab-compatible job runner, designed specifically to run in containers.
 
-* [amicontained](https://github.com/genuinetools/amicontained) ⭐ 1,078 | 🐛 7 | 🌐 Go | 📅 2020-12-09 :ice\_cube: - Container introspection tool. Find out what container runtime is being used as well as features available.
+* [amicontained](https://github.com/genuinetools/amicontained) ⭐ 1,080 | 🐛 7 | 🌐 Go | 📅 2020-12-09 :ice\_cube: - Container introspection tool. Find out what container runtime is being used as well as features available.
 
 * [su-exec](https://github.com/ncopa/su-exec) ⭐ 1,018 | 🐛 17 | 🌐 C | 📅 2025-10-07 - This is a simple tool that will simply execute a program with different privileges. The program will be executed directly and not run as a child, like su and sudo does, which avoids TTY and signal issues. Why reinvent gosu? This does more or less exactly the same thing as gosu but it is only 10kb instead of 1.8MB. By [ncopa](https://github.com/ncopa).
 
@@ -529,11 +529,11 @@ Applications designed to help or simplify building **new** images
 
 * [DockerSlim](https://github.com/docker-slim/docker-slim) ⭐ 23,245 | 🐛 208 | 🌐 Go | 📅 2026-04-16 shrinks fat Docker images creating the smallest possible images.
 
-* [BuildKit](https://github.com/moby/buildkit) ⭐ 9,970 | 🐛 897 | 🌐 Go | 📅 2026-05-15 - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit.
+* [BuildKit](https://github.com/moby/buildkit) ⭐ 9,969 | 🐛 898 | 🌐 Go | 📅 2026-05-15 - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit.
 
-* [buildah](https://github.com/containers/buildah) ⭐ 8,784 | 🐛 258 | 🌐 Go | 📅 2026-05-15 - A tool that facilitates building OCI images.
+* [buildah](https://github.com/containers/buildah) ⭐ 8,786 | 🐛 258 | 🌐 Go | 📅 2026-05-15 - A tool that facilitates building OCI images.
 
-* [img](https://github.com/genuinetools/img) ⭐ 3,987 | 🐛 110 | 🌐 Go | 📅 2024-05-19 - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+* [img](https://github.com/genuinetools/img) ⭐ 3,986 | 🐛 110 | 🌐 Go | 📅 2024-05-19 - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 
 * [runlike](https://github.com/lavie/runlike) ⭐ 2,925 | 🐛 8 | 🌐 Python | 📅 2026-04-27 - Generate `docker run`command and options from running containers.
 
@@ -579,7 +579,7 @@ Applications designed to help or simplify building **new** images
 
 ### Dockerfile
 
-* [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph) ⭐ 264 | 🐛 0 | 🌐 Go | 📅 2026-05-13 - Visualize your multi-stage Dockerfiles. By [PatrickHoefler](https://github.com/patrickhoefler).
+* [dockerfilegraph](https://github.com/patrickhoefler/dockerfilegraph) ⭐ 264 | 🐛 0 | 🌐 Go | 📅 2026-05-16 - Visualize your multi-stage Dockerfiles. By [PatrickHoefler](https://github.com/patrickhoefler).
 * [Dockerfile Generator](https://github.com/ozankasikci/dockerfile-generator) ⭐ 187 | 🐛 0 | 🌐 Go | 📅 2022-05-23 `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 * [Dockershelf](https://github.com/Dockershelf/dockershelf) ⭐ 95 | 🐛 1 | 🌐 Shell | 📅 2026-04-30 - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job.
 * [chaperone-docker](https://github.com/garywiz/chaperone-docker) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2018-10-05 :ice\_cube: - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
@@ -588,7 +588,7 @@ Applications designed to help or simplify building **new** images
 
 Examples by:
 
-* [jessfraz](https://github.com/jessfraz/dockerfiles) ⭐ 13,934 | 🐛 79 | 🌐 Dockerfile | 📅 2024-07-06
+* [jessfraz](https://github.com/jessfraz/dockerfiles) ⭐ 13,933 | 🐛 79 | 🌐 Dockerfile | 📅 2024-07-06
 * [vimagick](https://github.com/vimagick/dockerfiles) ⭐ 3,202 | 🐛 82 | 🌐 Dockerfile | 📅 2026-02-23
 * [kstaken](https://github.com/kstaken/dockerfile-examples) ⭐ 828 | 🐛 5 | 🌐 Shell | 📅 2019-10-24
 * [komljen](https://github.com/komljen/dockerfile-examples) ⭐ 586 | 🐛 0 | 🌐 Shell | 📅 2016-09-09
@@ -600,7 +600,7 @@ Examples by:
 
 ### Linter
 
-* [Hadolint](https://github.com/hadolint/hadolint) ⭐ 12,138 | 🐛 242 | 🌐 Haskell | 📅 2026-05-13 - A Dockerfile linter that checks for best practices, common mistakes, and is also able to lint any bash written in `RUN` instructions;.
+* [Hadolint](https://github.com/hadolint/hadolint) ⭐ 12,136 | 🐛 242 | 🌐 Haskell | 📅 2026-05-13 - A Dockerfile linter that checks for best practices, common mistakes, and is also able to lint any bash written in `RUN` instructions;.
 * [FROM:latest](https://github.com/replicatedhq/dockerfilelint) ⭐ 1,031 | 🐛 55 | 🌐 JavaScript | 📅 2023-09-27 :ice\_cube: - An opinionated Dockerfile linter.
 * [Dockadvisor](https://github.com/deckrun/dockadvisor) ⭐ 203 | 🐛 0 | 🌐 Go | 📅 2026-01-12 - Lightweight Dockerfile linter with 60+ rules, quality scoring, and security checks.
 * [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2026-05-15 - A tool to keep an eye on your docker images size.
@@ -608,17 +608,17 @@ Examples by:
 
 ### Metadata
 
-* [opencontainer](https://github.com/opencontainers/image-spec/blob/main/annotations.md) ⭐ 4,268 | 🐛 74 | 🌐 Go | 📅 2026-05-14 - A convention and shared namespace for Docker labels defined by OCI Image Spec.
+* [opencontainer](https://github.com/opencontainers/image-spec/blob/main/annotations.md) ⭐ 4,270 | 🐛 74 | 🌐 Go | 📅 2026-05-14 - A convention and shared namespace for Docker labels defined by OCI Image Spec.
 
 ### Registry
 
 Services to securely store your Docker images.
 
-* [Harbor](https://github.com/goharbor/harbor) ⭐ 28,494 | 🐛 841 | 🌐 Go | 📅 2026-05-15 An open source trusted cloud native registry project that stores, signs, and scans content. Supports replication, user management, access control and activity auditing. By [CNCF](https://www.cncf.io) formerly [VMWare][vmware]
-* [Kraken](https://github.com/uber/kraken) ⭐ 6,687 | 🐛 128 | 🌐 Go | 📅 2026-05-13 - Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds.
-* [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) ⭐ 3,165 | 🐛 34 | 🌐 Go | 📅 2026-05-15 - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
+* [Harbor](https://github.com/goharbor/harbor) ⭐ 28,500 | 🐛 841 | 🌐 Go | 📅 2026-05-15 An open source trusted cloud native registry project that stores, signs, and scans content. Supports replication, user management, access control and activity auditing. By [CNCF](https://www.cncf.io) formerly [VMWare][vmware]
+* [Kraken](https://github.com/uber/kraken) ⭐ 6,689 | 🐛 128 | 🌐 Go | 📅 2026-05-13 - Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds.
+* [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) ⭐ 3,167 | 🐛 34 | 🌐 Go | 📅 2026-05-15 - Provide efficient, stable and secure file distribution and image acceleration based on p2p technology.
 * [Docket](https://github.com/netvarun/docket) ⭐ 710 | 🐛 4 | 🌐 Go | 📅 2020-09-02 :ice\_cube: - Custom docker registry that allows for lightning fast deploys through bittorrent.
-* [NORA](https://github.com/getnora-io/nora) ⭐ 165 | 🐛 18 | 🌐 Rust | 📅 2026-05-15 - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
+* [NORA](https://github.com/getnora-io/nora) ⭐ 165 | 🐛 8 | 🌐 Rust | 📅 2026-05-16 - Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.
 * [cleanreg](https://github.com/hcguersoy/cleanreg) ⭐ 59 | 🐛 2 | 🌐 Shell | 📅 2022-09-03 :ice\_cube: - A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC.
 * [Rescoyl](https://github.com/noteed/rescoyl) ⭐ 18 | 🐛 0 | 🌐 Haskell | 📅 2017-04-08 :ice\_cube: - Private Docker registry (free and open source).
 * [Registryo](https://github.com/inmagik/registryo) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-17 - UI and token based authentication server for onpremise docker registry.
@@ -664,16 +664,16 @@ Services to securely store your Docker images.
 
 ### CI/CD
 
-* [Drone](https://github.com/drone/drone) ⭐ 35,840 | 🐛 92 | 🌐 Go | 📅 2026-05-15 - Continuous integration server built on Docker and configured using YAML files.
-* [Diun](https://github.com/crazy-max/diun) ⭐ 4,655 | 🐛 109 | 🌐 Go | 📅 2026-05-12 - Receive notifications when an image or repository is updated on a Docker registry by [crazy-max].
-* [dockcheck](https://github.com/mag37/dockcheck) ⭐ 2,321 | 🐛 11 | 🌐 Shell | 📅 2026-05-15 - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+* [Drone](https://github.com/drone/drone) ⭐ 35,852 | 🐛 92 | 🌐 Go | 📅 2026-05-15 - Continuous integration server built on Docker and configured using YAML files.
+* [Diun](https://github.com/crazy-max/diun) ⭐ 4,656 | 🐛 108 | 🌐 Go | 📅 2026-05-16 - Receive notifications when an image or repository is updated on a Docker registry by [crazy-max].
+* [dockcheck](https://github.com/mag37/dockcheck) ⭐ 2,322 | 🐛 11 | 🌐 Shell | 📅 2026-05-15 - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 * [Cyclone](https://github.com/caicloud/cyclone) ⭐ 1,069 | 🐛 44 | 🌐 Go | 📅 2023-10-24 :ice\_cube: - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 * [mu](https://github.com/stelligent/mu) ⭐ 966 | 🐛 89 | 🌐 Go | 📅 2020-06-18 :ice\_cube: - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS [Stelligent](https://github.com/stelligent).
 * [Captain](https://github.com/harbur/captain) ⭐ 776 | 🐛 21 | 🌐 Go | 📅 2025-05-25 - Convert your Git workflow to Docker containers ready for Continuous Delivery.
 * [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) ⭐ 498 | 🐛 73 | 🌐 Java | 📅 2026-05-01 - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
 * [Popper](https://github.com/systemslab/popper) ⭐ 308 | 🐛 23 | 🌐 Python | 📅 2022-03-29 :ice\_cube: - Github actions workflow (HCL syntax) execution engine.
 * [Kraken CI](https://github.com/Kraken-CI/kraken) ⭐ 160 | 🐛 96 | 🌐 Python | 📅 2026-01-15 - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of its executors is Docker. Developed.
-* [Defang](https://github.com/DefangLabs/defang) ⭐ 152 | 🐛 210 | 🌐 Go | 📅 2026-05-15 - Deploy Docker Compose to your favorite cloud in minutes.
+* [Defang](https://github.com/DefangLabs/defang) ⭐ 152 | 🐛 210 | 🌐 Go | 📅 2026-05-16 - Deploy Docker Compose to your favorite cloud in minutes.
 * [Microservices Continuous Deployment](https://github.com/francescou/docker-continuous-deployment) ⭐ 146 | 🐛 0 | 🌐 HTML | 📅 2017-08-01 :ice\_cube: - Continuous deployment of a microservices application.
 * [Gantry](https://github.com/shizunge/gantry) ⭐ 88 | 🐛 0 | 🌐 Shell | 📅 2026-05-12 - Automatically update selected Docker swarm services.
 * [SwarmCI](https://github.com/ghostsquad/swarmci) ⭐ 58 | 🐛 3 | 🌐 Python | 📅 2017-02-24 :ice\_cube: - Create a distributed, isolated task pipeline in your Docker Swarm.
@@ -687,13 +687,13 @@ Services to securely store your Docker images.
 
 ### Development Environment
 
-* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,025 | 🐛 151 | 🌐 Go | 📅 2026-05-15 - Database DevOps and CI/CD for MySQL, PostgreSQL, and more, with SQL review, schema migration, and access control. By [Bytebase](https://github.com/bytebase).
-* [coder](https://github.com/coder/coder) ⭐ 13,212 | 🐛 950 | 🌐 Go | 📅 2026-05-16 - Remote development machines powered by Terraform or Docker.
-* [Eclipse Che](https://github.com/eclipse/che) ⭐ 7,165 | 🐛 268 | 🌐 TypeScript | 📅 2026-05-13 - Developer workspace server with Docker runtimes, cloud IDE, next-generation Eclipse IDE.
+* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,028 | 🐛 151 | 🌐 Go | 📅 2026-05-16 - Database DevOps and CI/CD for MySQL, PostgreSQL, and more, with SQL review, schema migration, and access control. By [Bytebase](https://github.com/bytebase).
+* [coder](https://github.com/coder/coder) ⭐ 13,219 | 🐛 950 | 🌐 Go | 📅 2026-05-17 - Remote development machines powered by Terraform or Docker.
+* [Eclipse Che](https://github.com/eclipse/che) ⭐ 7,166 | 🐛 268 | 🌐 TypeScript | 📅 2026-05-13 - Developer workspace server with Docker runtimes, cloud IDE, next-generation Eclipse IDE.
 * [Lando](https://github.com/lando/lando) ⭐ 4,232 | 🐛 178 | 📅 2026-04-28 - Lando is for developers who want to quickly specify and painlessly spin up the services and tools needed to develop their projects. By [Tandem](https://www.thinktandem.io/).
-* [Docker-sync](https://github.com/EugenMayer/docker-sync) ⭐ 3,562 | 🐛 5 | 🌐 Ruby | 📅 2025-11-30 - Drastically improves performance ([50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ⭐ 3,562 | 🐛 5 | 🌐 Ruby | 📅 2025-11-30) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [EugenMayer](https://github.com/EugenMayer).
+* [Docker-sync](https://github.com/EugenMayer/docker-sync) ⭐ 3,561 | 🐛 5 | 🌐 Ruby | 📅 2025-11-30 - Drastically improves performance ([50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ⭐ 3,561 | 🐛 5 | 🌐 Ruby | 📅 2025-11-30) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [EugenMayer](https://github.com/EugenMayer).
 * [Vagga](https://github.com/tailhook/vagga) ⭐ 1,896 | 🐛 78 | 🌐 Rust | 📅 2023-03-31 :ice\_cube: - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
-* [DIP](https://github.com/bibendi/dip) ⭐ 1,331 | 🐛 15 | 🌐 Ruby | 📅 2026-05-09 - CLI utility for straightforward provisioning and interacting with an application configured by docker-compose. By [bibendi](https://github.com/bibendi).
+* [DIP](https://github.com/bibendi/dip) ⭐ 1,332 | 🐛 15 | 🌐 Ruby | 📅 2026-05-09 - CLI utility for straightforward provisioning and interacting with an application configured by docker-compose. By [bibendi](https://github.com/bibendi).
 * [Zsh-in-Docker](https://github.com/deluan/zsh-in-docker) ⭐ 1,105 | 🐛 9 | 🌐 Shell | 📅 2024-09-30 - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line! By [Deluan](https://www.deluan.com).
 * [Binci](https://github.com/binci/binci) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-06 :ice\_cube: - Containerize your development workflow. (formerly DevLab by [TechnologyAdvice](https://github.com/TechnologyAdvice)).
 * [Gebug](https://github.com/moshebe/gebug) ⭐ 633 | 🐛 16 | 🌐 Go | 📅 2026-05-08 - A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
@@ -708,7 +708,7 @@ Services to securely store your Docker images.
 * [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools) ⭐ 30 | 🐛 0 | 🌐 Shell | 📅 2018-05-01 :ice\_cube: - A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like "build.sh" and "deploy.sh" inside code repositories. By [NandoQuintana](https://github.com/nandoquintana).
 * [construi](https://github.com/lstephen/construi) ⭐ 25 | 🐛 6 | 🌐 Python | 📅 2022-12-08 :ice\_cube: - Run your builds inside a Docker defined environment.
 * [Kitt](https://github.com/senges/kitt) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2026-04-22 :ice\_cube: - A portable and disposable Shell environment, based on Docker and Nix. By [senges](https://github.com/senges).
-* [uniget](https://github.com/uniget-org/cli) ⭐ 19 | 🐛 18 | 🌐 Go | 📅 2026-05-12 - Uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [nicholasdille](https://github.com/nicholasdille).
+* [uniget](https://github.com/uniget-org/cli) ⭐ 20 | 🐛 18 | 🌐 Go | 📅 2026-05-12 - Uni(versal)get, the installer and updater for container tools and beyond (formerly docker-setup). By [nicholasdille](https://github.com/nicholasdille).
 * [HarborPilot](https://github.com/potterwhite/HarborPilot) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2026-04-30 - Automated multi-platform Docker image builder for embedded Linux development (RK3588, RV1126, RK3568). Features three-layer config inheritance, PORT\_SLOT-based port allocation, and cross-version Ubuntu support (20.04/22.04/24.04). By [potterwhite](https://github.com/potterwhite).
 
 ### Garbage Collection
@@ -721,9 +721,9 @@ Services to securely store your Docker images.
 
 ### Serverless
 
-* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,153 | 🐛 31 | 🌐 Go | 📅 2026-04-01 - A complete serverless functions framework for Docker and Kubernetes. By [OpenFaaS](https://github.com/openfaas).
+* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,150 | 🐛 31 | 🌐 Go | 📅 2026-04-01 - A complete serverless functions framework for Docker and Kubernetes. By [OpenFaaS](https://github.com/openfaas).
 
-* [Apache OpenWhisk](https://github.com/apache/openwhisk) ⭐ 6,777 | 🐛 436 | 🌐 Scala | 📅 2026-05-07 - A serverless, open source cloud platform that executes functions in response to events at any scale. By [apache](https://github.com/apache).
+* [Apache OpenWhisk](https://github.com/apache/openwhisk) ⭐ 6,778 | 🐛 436 | 🌐 Scala | 📅 2026-05-07 - A serverless, open source cloud platform that executes functions in response to events at any scale. By [apache](https://github.com/apache).
 
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15 :ice\_cube: - The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions.
 
@@ -737,8 +737,8 @@ Services to securely store your Docker images.
 
 * [dgoss](https://github.com/goss-org/goss/tree/master/extras/dgoss) ⭐ 5,892 | 🐛 101 | 🌐 Go | 📅 2025-05-01 - A fast YAML based tool for validating docker containers.
 * [Pumba](https://github.com/alexei-led/pumba) ⭐ 3,021 | 🐛 9 | 🌐 Go | 📅 2026-05-11 - Chaos testing tool for Docker. Can be deployed on kubernetes and CoreOS cluster. By [alexei-led](https://github.com/alexei-led).
-* [Container Structure Test](https://github.com/GoogleContainerTools/container-structure-test) ⭐ 2,476 | 🐛 113 | 🌐 Go | 📅 2026-04-15 - A framework to validate the structure of an image by checking the outputs of commands or the contents of the filesystem. By [GoogleContainerTools][googlecontainertools].
-* [Kurtosis](https://github.com/kurtosis-tech/kurtosis) ⭐ 538 | 🐛 294 | 🌐 Go | 📅 2026-05-13 - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/).
+* [Container Structure Test](https://github.com/GoogleContainerTools/container-structure-test) ⭐ 2,477 | 🐛 113 | 🌐 Go | 📅 2026-04-15 - A framework to validate the structure of an image by checking the outputs of commands or the contents of the filesystem. By [GoogleContainerTools][googlecontainertools].
+* [Kurtosis](https://github.com/kurtosis-tech/kurtosis) ⭐ 539 | 🐛 287 | 🌐 Go | 📅 2026-05-16 - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/).
 * [DockerSpec](https://github.com/zuazo/dockerspec) ⭐ 182 | 🐛 10 | 🌐 Ruby | 📅 2017-08-30 :ice\_cube: - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By [zuazo](https://github.com/zuazo).
 * [EZDC](https://github.com/lynchborg/ezdc) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2024-02-12 :ice\_cube: - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [byrnedo].
 * [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [chef](https://github.com/chef)
@@ -746,7 +746,7 @@ Services to securely store your Docker images.
 
 ### Wrappers
 
-* [Preevy](https://github.com/livecycle/preevy) ⭐ 2,207 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-06 - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
+* [Preevy](https://github.com/livecycle/preevy) ⭐ 2,209 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-06 - Preview environments for Docker and Docker Compose projects. Test your changes and get feedback from devs and non-devs (Product/Design) by deploying pull requests to the your cloud provider as part of your CI pipeline.
 * [Shutit](https://github.com/ianmiell/shutit) ⭐ 2,140 | 🐛 9 | 🌐 Python | 📅 2022-08-14 :ice\_cube: - Tool for building and maintaining complex Docker deployments.
 * [udocker](https://github.com/indigo-dc/udocker) ⭐ 1,744 | 🐛 39 | 🌐 Python | 📅 2025-08-13 - A tool to execute simple docker containers in batch or interactive systems without root privileges.
 * [subuser](https://github.com/subuser-security/subuser) ⭐ 894 | 🐛 43 | 🌐 Python | 📅 2025-02-23 - Makes it easy to securely and portably run graphical desktop applications in Docker.
@@ -796,7 +796,7 @@ Services to securely store your Docker images.
 
 # Useful Resources
 
-* [Cloud Native Landscape](https://github.com/cncf/landscape) ⭐ 9,889 | 🐛 48 | 📅 2026-05-15
+* [Cloud Native Landscape](https://github.com/cncf/landscape) ⭐ 9,889 | 🐛 49 | 📅 2026-05-15
 
 * [Docker Blog](https://www.docker.com/blog/) - Regular updates about Docker, the community and tools.
 
@@ -818,13 +818,13 @@ Services to securely store your Docker images.
 
 ## Awesome Lists
 
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 292,627 | 🐛 0 | 📅 2026-05-12 list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [Kickball](https://github.com/Kickball)
-* [Awesome Compose](https://github.com/docker/awesome-compose) ⭐ 45,281 | 🐛 374 | 🌐 HTML | 📅 2026-05-09 - Docker Compose samples.
-* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 33,899 | 🐛 62 | 📅 2026-05-15 by [n1trux](https://github.com/n1trux)
-* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,040 | 🐛 10 | 📅 2026-03-13 a list of SaaS and On premise applications by [cjbarber](https://github.com/cjbarber)
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,934 | 🐛 57 | 🌐 Shell | 📅 2026-04-28 by [ramitsurana][ramitsurana]
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 292,931 | 🐛 0 | 📅 2026-05-16 list of Free Software network services and web applications which can be hosted locally by running in a classical way (setup local web server and run applications from there) or in a Docker container. By [Kickball](https://github.com/Kickball)
+* [Awesome Compose](https://github.com/docker/awesome-compose) ⭐ 45,300 | 🐛 374 | 🌐 HTML | 📅 2026-05-09 - Docker Compose samples.
+* [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) ⭐ 33,920 | 🐛 62 | 📅 2026-05-16 by [n1trux](https://github.com/n1trux)
+* [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) ⭐ 17,040 | 🐛 10 | 📅 2026-05-16 a list of SaaS and On premise applications by [cjbarber](https://github.com/cjbarber)
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,935 | 🐛 58 | 🌐 Shell | 📅 2026-04-28 by [ramitsurana][ramitsurana]
 * [Awesome Linux Container](https://github.com/Friz-zy/awesome-linux-containers) ⭐ 2,058 | 🐛 10 | 📅 2024-04-09 more general about container than this repo, by [Friz-zy](https://github.com/Friz-zy).
-* [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd) ⭐ 1,999 | 🐛 26 | 📅 2026-04-14 :ice\_cube: - Not specific to docker but relevant.
+* [Awesome CI/CD](https://github.com/cicdops/awesome-ciandcd) ⭐ 1,998 | 🐛 26 | 📅 2026-04-14 :ice\_cube: - Not specific to docker but relevant.
 
 ## Demos and Examples
 
@@ -850,7 +850,7 @@ Services to securely store your Docker images.
 
 ## Security
 
-* [How CVE's are handled on Offical Docker Images](https://github.com/docker-library/official-images/issues/1448) ⭐ 6,956 | 🐛 43 | 🌐 Shell | 📅 2026-05-15
+* [How CVE's are handled on Offical Docker Images](https://github.com/docker-library/official-images/issues/1448) ⭐ 6,955 | 🐛 44 | 🌐 Shell | 📅 2026-05-15
 * [Docker Secure Deployment Guidelines](https://github.com/AonCyberLabs/Docker-Secure-Deployment-Guidelines) ⭐ 606 | 🐛 1 | 📅 2016-11-01
 * [CVE Scanning Alpine images with Multi-stage builds in Docker 17.05](https://github.com/tomwillfixit/alpine-cvecheck) ⭐ 11 | 🐛 0 | 🌐 Shell | 📅 2017-05-07 by [tomwillfixit](https://twitter.com/tomwillfixit)
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
